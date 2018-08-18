@@ -1,0 +1,5 @@
+READ ME: 
+Python based web application that allows the creation of new song playlists.
+Along with creating new playlists you can add and remove songs from inidivual playlists. 
+Lists are public by default. This project uses the Spotify Web API
+
