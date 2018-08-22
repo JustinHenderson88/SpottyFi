@@ -1,5 +1,23 @@
-.main_header h1{
-    font-style: bold;
-    padding: 0 4.5em 0 5.5em;
-    font-size: 80px;
+/* SpottyFi stylesheet */
+
+/* set body style */
+body {
+	background: url(https://bit.ly/2Pt56DO);
+	background-size: cover;
+	opacity: (50%);
 }
+
+/* define header classes as uppercase bold font family */
+.main_header{
+        font-family: 'Roboto', sans-serif;
+        font-style: bold;
+        padding: 0 4.5em 0 5.5em;
+        font-size: 80px;
+}
+.sub_headings{
+font-family:'Source Sans Pro', sans-serif;
+}
+
+/* insert Bootstrap styles for main page */
+
+
